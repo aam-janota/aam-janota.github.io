@@ -9,7 +9,7 @@ ul{
 ul li{
     list-style: none;
     display: inline-block;
-    line-height: 100px;
+    line-height: 50px;
     text-align: center;
 }
 
@@ -44,4 +44,5 @@ figcaption{
     margin-bottom: 15px;
 
 }
+
 
